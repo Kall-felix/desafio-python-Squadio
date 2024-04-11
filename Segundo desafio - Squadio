@@ -40,7 +40,7 @@ Lista de itens:
 - Escudo
 - Poção
 
-'''
+Resolução:
 
 # Lista para armazenar os itens
 itens = [] # Cria uma lista vazia para armazenar os itens
