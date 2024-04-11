@@ -41,7 +41,8 @@ Explorador: 3 passos
 # Se a quantidade de passos for zero, imprima "Nenhum passo dado na floresta."
 # Caso contrário, utilize um loop for para imprimir a mensagem do explorador, indicando o número do passo.
 
-# SOLUÇÃO e EXPLICAÇÃO:
+Resolução:
+
 quantidade_passos = int(input()) # quantidade de passos que o explorador deu na floresta 
 
 if quantidade_passos <= 0: # Verifica se a quantidade de passos é positiva
